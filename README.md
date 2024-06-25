@@ -9,6 +9,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+# Cifar100 Image Classification using Vision Transformer
+The repository contains the code for the cifar100 image classification using Vision Transformer in the Keras 3<br/>
+
+- Arxiv Paper: [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
+
+
+## Architecture
+| ![The block diagram of the Vision Transformer](img/vit.png) |
+| :--: |
+| *The block diagram of the Vision Transformer along with the Transformer Encoder.* |
 
 
 Read the ViT paper and Implemented the same in the Keras 3 with Tensorflow as a backend on the cifar100 Dataset.
