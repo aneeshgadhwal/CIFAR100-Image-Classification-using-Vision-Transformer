@@ -16,7 +16,7 @@ The repository contains the code for the cifar100 image classification using Vis
 
 
 ## Architecture
-| ![The block diagram of the Vision Transformer](img/vit.png) |
+| ![The block diagram of the Vision Transformer](Image/vit.png) |
 | :--: |
 | *The block diagram of the Vision Transformer along with the Transformer Encoder.* |
 
