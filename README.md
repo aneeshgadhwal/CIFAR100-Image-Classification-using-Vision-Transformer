@@ -33,6 +33,18 @@ Let's break down the key components and functionalities of the code:
 6. **Task 6: Embedded patches then passed to the Transformer encoder**
 
 
+## Results
+- Trained on GPU P100 and Total time taken to run the Whole code == 2 hour : 01 minute
+- Trained for epochs == 500
+- Test accuracy == 55.59%
+- Top 5 Test accuracy == 81.17%
 
+| ![The Vision Transformer Train and Validation loss over Epochs](Image/Top5accuracy_vit.png) |
+| :--: |
+| *The Plot of the Vision Transformer Train and Validation loss over Epochs.* |
+
+| ![The Vision Transformer Train and Validation Top-5-accuracy over Epochs](Image/Loss_vit.png) |
+| :--: |
+| *The Plot of the Vision Transformer Train and Validation Top-5 accuracy over Epochs.* |
 
 
