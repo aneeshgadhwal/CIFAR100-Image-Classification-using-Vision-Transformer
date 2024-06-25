@@ -1,4 +1,4 @@
-# AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE application Paper Implementation in Keras 3
+## AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE application Paper Implementation in Keras 3
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -9,7 +9,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-# Cifar100 Image Classification using Vision Transformer
+## Cifar100 Image Classification using Vision Transformer
 The repository contains the code for the cifar100 image classification using Vision Transformer in the Keras 3<br/>
 
 - Arxiv Paper: [AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929.pdf)
@@ -39,12 +39,9 @@ Let's break down the key components and functionalities of the code:
 - Test accuracy == 55.59%
 - Top 5 Test accuracy == 81.17%
 
-| ![The Vision Transformer Train and Validation loss over Epochs](Image/Top5accuracy_vit.png) |
-| :--: |
-| *The Plot of the Vision Transformer Train and Validation loss over Epochs.* |
+<be>
+<br>
 
-| ![The Vision Transformer Train and Validation Top-5-accuracy over Epochs](Image/Loss_vit.png) |
-| :--: |
-| *The Plot of the Vision Transformer Train and Validation Top-5 accuracy over Epochs.* |
-
-
+| <img src="Image/Top5accuracy_vit.png" alt="The Vision Transformer Train and Validation loss over Epochs" width="800" height="400"> | <img src="Image/Loss_vit.png" alt="The Vision Transformer Train and Validation Top-5-accuracy over Epochs" width="800" height="400">
+| :--: | :--: |
+| *The Plot of the Vision Transformer Train and Validation loss over Epochs.* | *The Plot of the Vision Transformer Train and Validation Top-5 accuracy over Epochs.* |
